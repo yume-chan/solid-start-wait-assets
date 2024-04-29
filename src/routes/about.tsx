@@ -1,4 +1,5 @@
 import { Title } from "@solidjs/meta";
+import './about.css';
 
 export default function Home() {
   return (
